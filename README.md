@@ -1,9 +1,9 @@
 # Okolla Immaculate - Week 03 Project
 In week 03,i have learn about:
--Terminal
--Basic built-in-terminal commands.
--Powershell
--How to create folders using terminal commands
+- Terminal
+- Basic built-in-terminal commands.
+- Powershell
+- How to create folders using terminal commands
 
 ## Live Demo
 
@@ -28,7 +28,7 @@ In week 03,i have learn about:
 
 ## Project Structure
 
-\`\`\`
+```
 iyf-s11-week-03-okolla-immaculate/
 ├── index.html
 ├── about.html
@@ -37,7 +37,7 @@ iyf-s11-week-03-okolla-immaculate/
 ├── css/
 │   └── styles.css
 └── images/
-\`\`\`
+```
 
 ## What I Learned
 
